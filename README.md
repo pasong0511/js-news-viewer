@@ -22,8 +22,7 @@
 > -   CSS3
 > -   Vanilla Javascript
 > -   Axios
-> -   IntersectionObserver API
-> -   Observer Pattern
+> -   Intersection Observer
 > -   Eslintrc
 
 ## 🌐 News API
