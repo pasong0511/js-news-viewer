@@ -23,7 +23,6 @@
 > -   Vanilla Javascript
 > -   Axios
 > -   IntersectionObserver API
-> -   Proxy
 > -   Observer Pattern
 > -   Eslintrc
 
